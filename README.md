@@ -1,1 +1,5 @@
-# CS255
+For this project, I built a mock system for the client DriverPass, who was looking to build a scheduling system that allowed students to book an in-person lesson with a professional driver and host online classes for students to learn about the written portion of the drivers test. 
+I feel like the business requirments document I prepared has relevant details to the task at hand and lays out the needs of the project in a way condusive to the future success of the project.
+I would revise the activity diagram for making purchases. I ran out of steam creating the diagrams, and didn't include as much detail or explanation in it as I would have liked. 
+Users are the lifeblood of platforms, interpreting their needs makes the platform desirable and makes the project a success when users engage with it. I placed myself in the shoes of a user, asking myself what they might want to see and how I would want to interact with the website if I were a student. Then, I thought about concerns like security and data integrity to make sure that a user would not have to consider these things when they used the DriverPass platform.
+I start with considering what the user needs first. Without users, there's no point in making a software service to begin with. I ask myself why a particular system should exist, and examine the problems it's looking to solve. 
